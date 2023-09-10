@@ -102,6 +102,7 @@ h2 {
 /* Hide default file input element */
 #imageInput {
   display: none;
+  align-items: center;
 }
 
 /* Modal Styles */
