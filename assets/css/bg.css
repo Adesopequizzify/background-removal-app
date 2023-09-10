@@ -1,0 +1,11 @@
+.navbar-brand img {
+    width: 50px; /* You can adjust the size as needed */
+}
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ad {
+  margin-top: 200px;
+}
