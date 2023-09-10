@@ -43,7 +43,7 @@ This project is licensed under the [MIT License](LICENSE).
 Feel free to reach out with any questions or feedback:
 - **Email:** [adesope@quizzify.com.ng](mailto:adesope@quizzify.com.ng)
 - **GitHub:** [@adesopequizzify](https://github.com/adesopequizzify)
-- **LinkedIn:** [Your LinkedIn Profile](Your LinkedIn Profile URL)
+- **LinkedIn:** [Linkedln](https://www.linkedin.com/in/adesopemuiz?trk=contact-info)
 - **Twitter:** [@adesopemuiz3](https://twitter.com/adesopemuiz3)
 
 You can also visit our company's website: [Quizzify](https://quizzify.com.ng)
