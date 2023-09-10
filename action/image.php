@@ -1,6 +1,6 @@
 <?php
 // Specify the target directory where you want to save the uploaded image
-$targetDirectory = 'upload/';
+$targetDirectory = '/upload';
 
 if (isset($_FILES['image_file'])) {
     $file = $_FILES['image_file'];

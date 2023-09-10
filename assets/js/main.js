@@ -68,7 +68,7 @@ document.addEventListener('DOMContentLoaded', function() {
         const saveImageFormData = new FormData();
         saveImageFormData.append('image_file', imageInput.files[0]);
 
-        fetch('/include/image.php', {
+        fetch('/action/image.php', {
           method: 'POST',
           body: saveImageFormData,
         });
